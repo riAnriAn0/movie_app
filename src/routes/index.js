@@ -3,7 +3,7 @@ import { createDrawerNavigator } from "@react-navigation/drawer";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 
 import Movies from "../pages/Movies";
-import StackRoutes from "./stackroutes";
+import StackRoutes from "./stackRoutes";
 
 const Drawer = createDrawerNavigator();
 
